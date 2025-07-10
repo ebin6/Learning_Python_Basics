@@ -54,3 +54,7 @@ elif choice==4:
     print(a/b)
 else:
     print("Please enter a valid input from choices given")
+
+
+
+# We can use match also instead of if elif else
