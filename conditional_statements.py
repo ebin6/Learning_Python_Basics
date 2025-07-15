@@ -42,7 +42,7 @@ else:
 while True:
     a=int(input("Enter the first number : "))
     b=int(input("Enter the second number : "))
-    print("Please enter your choice :\n 1.Addition \n 2.Substarction\n3.Multiplication\n4.Division")
+    print("Please enter your choice :\n1.Addition \n2.Substarction\n3.Multiplication\n4.Division")
     choice=int(input("Enter your choice 1,2,3,4 : "))
     if choice==1:
         print(a+b)
