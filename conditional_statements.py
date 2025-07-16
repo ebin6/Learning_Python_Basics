@@ -11,7 +11,8 @@ else:
     
 """
 
-'''if age>=18:
+'''
+if age>=18:
     print("Eligible for voting")
     print("Please get your voters id ")
 else:

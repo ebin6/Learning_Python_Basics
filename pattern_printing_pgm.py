@@ -8,8 +8,10 @@
 
 """
 
-"""for k in range(5,0,-1):
-    print("* "*k)"""
+"""
+for k in range(5,0,-1):
+    print("* "*k)
+"""
 
 """for r in range(1,6):
        print(" "*int(5-r),"*"*r)

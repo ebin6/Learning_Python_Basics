@@ -1,4 +1,5 @@
 """
+
 Create python code for displaying the following patterns :
 
 Pattern - 1
