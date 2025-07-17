@@ -38,6 +38,7 @@ def is_positive(num):
 
 num=int(input("Enter the number : "))
 if is_positive(num):
+
     is_even(num)
 else:
     print("PLease enter a positive number")
