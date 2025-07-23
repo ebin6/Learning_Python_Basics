@@ -13,3 +13,7 @@ print("Iterating over Dictionary")
 v={"name":"Ebin","age":27,2:45}
 for k in v:
     print(k,v[k])
+
+
+for k,v in zip(["name","age",23],["Ebin",27,9]):
+    print(k,v)
