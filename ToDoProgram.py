@@ -21,7 +21,13 @@ def UpdateTask(task_id):
 
 
 def RemoveTask(id):
-    pass
+    try:
+        tasks.pop(id)
+        ShowTask()
+    except Exception as e:
+        print(e)
+        print("Failed delete task")
+
 
 def ShowTask():
     print("Tasks")
