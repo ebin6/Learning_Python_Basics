@@ -1,5 +1,4 @@
-def Addition(a,b=0):
-    print(a/b)
+from datetime import date
 
-Addition(56,67)
 
+print(date.today().year)
